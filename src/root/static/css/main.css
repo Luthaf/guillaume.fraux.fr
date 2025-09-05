@@ -83,8 +83,8 @@ img {
 }
 
 .sidebar .active a:before {
-    content: "\f0da  ";
-	font-family: FontAwesome;
+    content: "► ";
+	/* font-family: FontAwesome; */
 }
 
 .navbar-nav {
@@ -162,6 +162,7 @@ img {
 .big-icon {
 	font-size: 500%;
 	display: block;
+	margin: auto;
 }
 
 .contact {
